@@ -1,0 +1,2 @@
+python ..\..\ubsy.py
+pause
