@@ -13,8 +13,8 @@ public class ORBITER : MonoBehaviour
     public Vector3
         TargetOffsetVector = new Vector3( 0.0f, 1.0f, 0.0f );
     public float
-        Distance = 4.0f,
-        MinimumDistance = 4.0f,
+        Distance = 6.0f,
+        MinimumDistance = 6.0f,
         MaximumDistance = 10.0f,
         TranslationSpeed = 10.0f,
         XRotationSpeed = 25.0f,
@@ -22,7 +22,7 @@ public class ORBITER : MonoBehaviour
         XRotationAngle = 0.0f,
         YRotationAngle = 0.0f,
         MinimumYRotationAngle = 1.0f,
-        MaximumYRotationAngle = 89.0f;
+        MaximumYRotationAngle = 40.0f;
     public Vector3
         TranslationMousePositionVector,
         RotationMousePositionVector;
@@ -58,14 +58,6 @@ public class ORBITER : MonoBehaviour
     void Start(
         )
     {
-        Vector3
-            rotation_vector;
-
-        rotation_vector = transform.eulerAngles;
-
-        XRotationAngle = rotation_vector.y;
-        YRotationAngle = rotation_vector.x;
-
         UpdateCamera();
     }
 
