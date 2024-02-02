@@ -1,2 +1,2 @@
-python ..\..\ubsy.py
+python ..\..\univer.py
 pause
