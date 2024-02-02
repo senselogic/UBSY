@@ -1,0 +1,13 @@
+/CODE/.vs/
+/CODE/.gradle/
+/CODE/Build/
+/CODE/Builds/
+/CODE/Library/
+/CODE/Logs/
+/CODE/MemoryCaptures/
+/CODE/Obj/
+/CODE/Temp/
+/CODE/UserSettings/
+
+# Large files
+/BUILD/WINDOWS/UniverTest_Data/sharedassets0.assets.resS

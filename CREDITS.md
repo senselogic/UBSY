@@ -3,4 +3,5 @@
 Thanks to :
 
 *    Simpleicons and Icon-icons.com for the free drawing used in the logo.
-*    Kevin and Downloadfree3d.com for the free model used in the 3D scene.
+*    Dev365TH and Sketchfab.com for the free car model used in the 3D scene.
+*    Nenkea and Sketchfab.com for the free tunnel model used in the 3D scene.

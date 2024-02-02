@@ -1,6 +1,6 @@
-![](https://github.com/senselogic/UBSY/blob/master/LOGO/ubsy.png)
+![](https://github.com/senselogic/UNIVER/blob/master/LOGO/univer.png)
 
-# Ubsy
+# Univer
 
 Unity WebGL build server.
 
